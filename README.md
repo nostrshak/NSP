@@ -30,10 +30,7 @@
 
 ## Documents
 ### Supported NIPs and Kinds Document
-List of all NIPs w/support disposition
-- Implemented, Will Implement, Likely Won't Implement, Not Implemented, Disposition TBD
-### List of all Kinds w/support disposition
-- Supported, Will Support, Likely Won't Support, Not Supported, Disposition TBD
+[Planned support for nips and kinds](nip_and_kind_support.md)
 
 ### Process Flow Description
 - Client connects to NSP
