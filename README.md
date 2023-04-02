@@ -53,4 +53,4 @@ List of all NIPs w/support disposition
 - Status of standard Relay API functions
 - List of additional API functions (if any)
 
-### Relay Management Interface Document
+### NSP Management Interface Document
