@@ -1,10 +1,7 @@
-# Nostrshak Nostr Service Proxy
-## Possible names for the general software/device category
-- Nostr Service Proxy (NSP)
-- Nostr Client Proxy
-- LENS
+# Nostr Service Proxy
 
 ## Goals
+
 ### Improved privacy
 - NSP talks to relays via TOR
 - Client(s) talk to NSP via public IP or via TOR 
